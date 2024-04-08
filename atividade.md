@@ -1,3 +1,6 @@
+![img](https://hermes.dio.me/articles/cover/f54fb5c2-a04f-4ee5-aaf2-14fd4336fbc1.png)
+
+
 # Git
 
 ## Definição
@@ -47,3 +50,6 @@ Visual Studio Code (VS Code) é um editor de código fonte desenvolvido pela Mic
 | Integração          | Não           | Sim          | Sim                |
 | Popularidade        | Alta          | Alta         | Alta               |
 | Código Fonte        | Open-source   | Não           | Open-source        |
+
+
+[clique aqui para saber mais](https://git-scm.com)
